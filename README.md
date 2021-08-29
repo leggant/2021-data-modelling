@@ -1,13 +1,13 @@
 # IN605 Data Model Assignment
 
-**Anthony Legg**
+**Anthony Legg** #03007276
+**Hayden McDowall** #100051359
 
 ## Learning Outcomes
 
 At the successful completion of this course, students will be able to:
 
 1. Apply the normalization rules to the creation of a relational database.
-
 2. Construct an appropriate data and database (ERD) model for a specified problem and build the corresponding database
 
 ## Overview
