@@ -18,7 +18,7 @@ The assignment has 100 marks.  It is due at **11:59pm Friday 17th September.**  
 
 ## Deliverables
 
-A ***single\*** document should be submitted to GitHub Classroom (you will be sent a link), (yes there will be marks deducted for multiple files!)
+A ***single*** document should be submitted to GitHub Classroom (you will be sent a link), (yes there will be marks deducted for multiple files!)
 
 Use cases (30%)
 
